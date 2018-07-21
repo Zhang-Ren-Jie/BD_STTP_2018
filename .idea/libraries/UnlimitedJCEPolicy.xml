@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="UnlimitedJCEPolicy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hbase-book/cluster/ansible/roles/krb-client/files/UnlimitedJCEPolicy/local_policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase-book/cluster/ansible/roles/krb-client/files/UnlimitedJCEPolicy/US_export_policy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
